@@ -4,7 +4,7 @@
 Simple Keylogger which loggs all your keys in Python!
 
 
-![Logo](https://skynethub.net/Tempmail-checker-AI.png)
+![Logo](https://skynethub.net/keylogger.png)
 
 
 ## Getting Started 🚀
